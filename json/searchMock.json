@@ -1,0 +1,2613 @@
+{
+  "businesses": [
+    {
+      "id": "qBQcTbyaE11XlMjrdpVXgg",
+      "alias": "kopan-sushi-and-ramen-alhambra-alhambra",
+      "name": "Kopan Sushi & Ramen - Alhambra",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JGYhEzWwQ5aH3eQqkpZI1w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kopan-sushi-and-ramen-alhambra-alhambra?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 2428,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        },
+        {
+          "alias": "soup",
+          "title": "Soup"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 34.0985908508301,
+        "longitude": -118.120239257812
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "645 E Main St",
+        "address2": null,
+        "address3": "",
+        "city": "Alhambra",
+        "zip_code": "91801",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "645 E Main St",
+          "Alhambra, CA 91801"
+        ]
+      },
+      "phone": "+16264588388",
+      "display_phone": "(626) 458-8388",
+      "distance": 2221.5997092477355,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.toasttab.com/kopan-ramen-alhambra",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "l1WnF_jgjuMgnujU1p776g",
+      "alias": "kosuke-alhambra",
+      "name": "Kosuke",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1dgLo627Mq-smrf137YthA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kosuke-alhambra?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 1627,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 34.0916557312012,
+        "longitude": -118.133514404297
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "618 W Main St",
+        "address2": "",
+        "address3": "",
+        "city": "Alhambra",
+        "zip_code": "91801",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "618 W Main St",
+          "Alhambra, CA 91801"
+        ]
+      },
+      "phone": "+16262898030",
+      "display_phone": "(626) 289-8030",
+      "distance": 1882.1565359233423,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://kosukeramen.com/menu/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "2WvJvG6miVB1FAbnxufpQQ",
+      "alias": "shinkai-sushi-japanese-fusion-alhambra",
+      "name": "Shinkai Sushi Japanese Fusion",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FDHoiceLM7Nknp5fYGJTFw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/shinkai-sushi-japanese-fusion-alhambra?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 168,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 34.09193,
+        "longitude": -118.13238
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "500 W Main St",
+        "address2": "Unit D",
+        "address3": "",
+        "city": "Alhambra",
+        "zip_code": "91801",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "500 W Main St",
+          "Unit D",
+          "Alhambra, CA 91801"
+        ]
+      },
+      "phone": "+16265371388",
+      "display_phone": "(626) 537-1388",
+      "distance": 1850.3718415749302,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.shinkaisushijf.com/pdf-menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "lW6vCqrLxJGlEtdD-5xU4g",
+      "alias": "tsujita-la-artisan-noodle-san-gabriel",
+      "name": "Tsujita LA Artisan Noodle",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ApQD6sjHlojuR7LRZOEXTw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tsujita-la-artisan-noodle-san-gabriel?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 451,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.07984265240904,
+        "longitude": -118.10295158834316
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "227 W Valley Blvd",
+        "address2": "Ste 108A",
+        "address3": "",
+        "city": "San Gabriel",
+        "zip_code": "91776",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "227 W Valley Blvd",
+          "Ste 108A",
+          "San Gabriel, CA 91776"
+        ]
+      },
+      "phone": "+16268720384",
+      "display_phone": "(626) 872-0384",
+      "distance": 1657.635133148151,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.tsujita.com/sawtelle-menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "fnJSBd4BkxAt80iCpMhWCg",
+      "alias": "nabemono-shabu-shabu-alhambra",
+      "name": "Nabemono Shabu Shabu",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7Yv7LibhrFEwvbYSoYZAhw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nabemono-shabu-shabu-alhambra?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 461,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "hotpot",
+          "title": "Hot Pot"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.095695,
+        "longitude": -118.126433
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "27 E Main St",
+        "address2": "",
+        "address3": null,
+        "city": "Alhambra",
+        "zip_code": "91801",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "27 E Main St",
+          "Alhambra, CA 91801"
+        ]
+      },
+      "phone": "+16267034439",
+      "display_phone": "(626) 703-4439",
+      "distance": 1975.9994762578228,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.nabemonoshabu.com/dine-in-menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "BkLaO-2j3sA1eBlUBi2lJQ",
+      "alias": "chubby-cattle-monterey-park-monterey-park-2",
+      "name": "Chubby Cattle - Monterey Park",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pYwyVRclM9Rwq8OdqvylhA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/chubby-cattle-monterey-park-monterey-park-2?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 2196,
+      "categories": [
+        {
+          "alias": "bbq",
+          "title": "Barbeque"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 34.062755,
+        "longitude": -118.129513
+      },
+      "transactions": [],
+      "price": "$$$$",
+      "location": {
+        "address1": "501 W Garvey Ave",
+        "address2": "Ste 108",
+        "address3": "",
+        "city": "Monterey Park",
+        "zip_code": "91754",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "501 W Garvey Ave",
+          "Ste 108",
+          "Monterey Park, CA 91754"
+        ]
+      },
+      "phone": "+15163232160",
+      "display_phone": "(516) 323-2160",
+      "distance": 1925.9370192882436,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.chubbycattle.com/project/chubby-cattle-monterey-park/",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "XrbBvI6GliSgyRk2_gCvMw",
+      "alias": "wa-sushi-and-izakaya-alhambra-alhambra",
+      "name": "Wa Sushi & Izakaya - Alhambra",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/w4VPwNZH9YTp7Vvl16LEPA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/wa-sushi-and-izakaya-alhambra-alhambra?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 224,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.10571,
+        "longitude": -118.13425
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1132 N Garfield Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Alhambra",
+        "zip_code": "91801",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1132 N Garfield Ave",
+          "Alhambra, CA 91801"
+        ]
+      },
+      "phone": "+16262825636",
+      "display_phone": "(626) 282-5636",
+      "distance": 3274.444530115374,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "nDrU4Jdz2C5yj23ps4BVug",
+      "alias": "pisces-poke-and-ramen-los-angeles-3",
+      "name": "Pisces Poke & Ramen",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kZ37QDYX3gAjo-IIHcyyzw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pisces-poke-and-ramen-los-angeles-3?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 1262,
+      "categories": [
+        {
+          "alias": "poke",
+          "title": "Poke"
+        },
+        {
+          "alias": "hawaiian",
+          "title": "Hawaiian"
+        },
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4.7,
+      "coordinates": {
+        "latitude": 34.0954956740665,
+        "longitude": -118.158601038158
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "5587 Huntington Dr N",
+        "address2": "",
+        "address3": "",
+        "city": "Los Angeles",
+        "zip_code": "90032",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "5587 Huntington Dr N",
+          "Los Angeles, CA 90032"
+        ]
+      },
+      "phone": "+13233322701",
+      "display_phone": "(323) 332-2701",
+      "distance": 3952.9381641238942,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.piscespoke.com/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "dSDChfkjtJOtFxMHfHRqdg",
+      "alias": "pepper-lunch-alhambra",
+      "name": "Pepper Lunch",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AJY1lP0OpJ0cHE0RRijn-A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pepper-lunch-alhambra?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 1383,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "steak",
+          "title": "Steakhouses"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": 34.0949135658334,
+        "longitude": -118.127023873678
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "6 W Main St",
+        "address2": "",
+        "address3": null,
+        "city": "Alhambra",
+        "zip_code": "91801",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "6 W Main St",
+          "Alhambra, CA 91801"
+        ]
+      },
+      "phone": "+16265881788",
+      "display_phone": "(626) 588-1788",
+      "distance": 1907.6271534046634,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://ca.pepperlunch.us/menu/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "9utgo_6iF9ZRzuHCXl0rFg",
+      "alias": "mikomi-sushi-alhambra-alhambra-2",
+      "name": "Mikomi Sushi Alhambra",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RJBliq4IsoEwvOd3dXnJRA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mikomi-sushi-alhambra-alhambra-2?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 191,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.094685,
+        "longitude": -118.126154
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "2 S Garfield Ave",
+        "address2": "Ste 100",
+        "address3": null,
+        "city": "Alhambra",
+        "zip_code": "91801",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2 S Garfield Ave",
+          "Ste 100",
+          "Alhambra, CA 91801"
+        ]
+      },
+      "phone": "+16267417697",
+      "display_phone": "(626) 741-7697",
+      "distance": 1845.0607546231406,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "AQokg8CmdKnHF2TwN-WeSQ",
+      "alias": "kaiba-japanese-restaurant-monterey-park-monterey-park",
+      "name": "Kaiba Japanese Restaurant - Monterey Park",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EnyW92K0H7Ryo1hw7nd2WA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kaiba-japanese-restaurant-monterey-park-monterey-park?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 3087,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        },
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 34.05222593441128,
+        "longitude": -118.13703624787318
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "816 S Atlantic Blvd",
+        "address2": "",
+        "address3": null,
+        "city": "Monterey Park",
+        "zip_code": "91754",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "816 S Atlantic Blvd",
+          "Monterey Park, CA 91754"
+        ]
+      },
+      "phone": "+16266566222",
+      "display_phone": "(626) 656-6222",
+      "distance": 3281.688129971696,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://kaibajapanese.site/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "2BhXEJFVCSpO876OZtfssw",
+      "alias": "shin-sen-gumi-hakata-ramen-rosemead-rosemead-8",
+      "name": "Shin-Sen-Gumi Hakata Ramen-Rosemead",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1pk4C63_GDe5w_6qBzq1Dw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/shin-sen-gumi-hakata-ramen-rosemead-rosemead-8?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 2901,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 34.0796451238094,
+        "longitude": -118.084381071348
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "8450 E Valley Blvd",
+        "address2": "Ste 103",
+        "address3": "",
+        "city": "Rosemead",
+        "zip_code": "91770",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "8450 E Valley Blvd",
+          "Ste 103",
+          "Rosemead, CA 91770"
+        ]
+      },
+      "phone": "+16265728646",
+      "display_phone": "(626) 572-8646",
+      "distance": 3363.804634705595,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "dScMA_Ts4mBMsTabTWhwzw",
+      "alias": "hironori-craft-ramen-monterey-park-monterey-park",
+      "name": "HiroNori Craft Ramen - Monterey Park",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9GCO5j2sioJKjqVYdQZjNA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/hironori-craft-ramen-monterey-park-monterey-park?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 335,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.06305,
+        "longitude": -118.11421
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "111 N Rural Dr",
+        "address2": null,
+        "address3": "",
+        "city": "Monterey Park",
+        "zip_code": "91755",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "111 N Rural Dr",
+          "Monterey Park, CA 91755"
+        ]
+      },
+      "phone": "+16268726050",
+      "display_phone": "(626) 872-6050",
+      "distance": 1823.956417579509,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "nzU1fBD3RrfovN7-h8VYrQ",
+      "alias": "gram-cafe-and-pancakes-monterey-park",
+      "name": "Gram Cafe & Pancakes",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7mzCHfko7Qx_XhFk8VhmXg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/gram-cafe-and-pancakes-monterey-park?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 550,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "pancakes",
+          "title": "Pancakes"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 34.06797425241759,
+        "longitude": -118.13409678458024
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "500 N Atlantic Blvd",
+        "address2": "Ste 179",
+        "address3": "",
+        "city": "Monterey Park",
+        "zip_code": "91754",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "500 N Atlantic Blvd",
+          "Ste 179",
+          "Monterey Park, CA 91754"
+        ]
+      },
+      "phone": "+16268720447",
+      "display_phone": "(626) 872-0447",
+      "distance": 1691.0010555533445,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "v-BiVLLcedTUWEp23t5GIg",
+      "alias": "shin-sen-gumi-yakitori-and-men-ya-alhambra-alhambra",
+      "name": "Shin-Sen-Gumi Yakitori & Men-Ya Alhambra",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VONjGD2rKo_V5xhzN7sZIA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/shin-sen-gumi-yakitori-and-men-ya-alhambra-alhambra?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 349,
+      "categories": [
+        {
+          "alias": "japacurry",
+          "title": "Japanese Curry"
+        },
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 34.094179,
+        "longitude": -118.126533
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "45 S Garfield Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Alhambra",
+        "zip_code": "91801",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "45 S Garfield Ave",
+          "Alhambra, CA 91801"
+        ]
+      },
+      "phone": "+16269437956",
+      "display_phone": "(626) 943-7956",
+      "distance": 1821.1899648284473,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://shinsengumigroup.com/common/pdf/menu/QR-AL.pdf",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "0Xbp0JMVujAHtQR2xTKBQA",
+      "alias": "mikiya-wagyu-shabu-house-temple-city",
+      "name": "Mikiya Wagyu Shabu House",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0cEHw6D7mtS_laTfzUcvfA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mikiya-wagyu-shabu-house-temple-city?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 628,
+      "categories": [
+        {
+          "alias": "hotpot",
+          "title": "Hot Pot"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.104631,
+        "longitude": -118.073221
+      },
+      "transactions": [
+        "restaurant_reservation"
+      ],
+      "location": {
+        "address1": "5728 Rosemead Blvd",
+        "address2": "Ste 107",
+        "address3": "",
+        "city": "Temple City",
+        "zip_code": "91780",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "5728 Rosemead Blvd",
+          "Ste 107",
+          "Temple City, CA 91780"
+        ]
+      },
+      "phone": "+16266588998",
+      "display_phone": "(626) 658-8998",
+      "distance": 5260.699794997517,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "9L6TTPOMbwtWNjW3Ig3pHg",
+      "alias": "yama-seafood-san-gabriel-4",
+      "name": "Yama Seafood",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/trW6oOowEvA3YOkmbkQ5yw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/yama-seafood-san-gabriel-4?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 1720,
+      "categories": [
+        {
+          "alias": "seafoodmarkets",
+          "title": "Seafood Markets"
+        },
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 34.102393,
+        "longitude": -118.112663
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "911 W Las Tunas Dr",
+        "address2": null,
+        "address3": "",
+        "city": "San Gabriel",
+        "zip_code": "91776",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "911 W Las Tunas Dr",
+          "San Gabriel, CA 91776"
+        ]
+      },
+      "phone": "+16262506203",
+      "display_phone": "(626) 250-6203",
+      "distance": 2759.2512073279017,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": false
+      }
+    },
+    {
+      "id": "i7ChHlgCnItFyrtby7___Q",
+      "alias": "aikan-sushi-and-ramen-pasadena-pasadena-3",
+      "name": "Aikan Sushi and Ramen - Pasadena",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/e66VOJN6HflEO81TtuEBqw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/aikan-sushi-and-ramen-pasadena-pasadena-3?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 3088,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "izakaya",
+          "title": "Izakaya"
+        },
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.1449,
+        "longitude": -118.13531
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "735 E Green St",
+        "address2": "",
+        "address3": null,
+        "city": "Pasadena",
+        "zip_code": "91101",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "735 E Green St",
+          "Pasadena, CA 91101"
+        ]
+      },
+      "phone": "+16265781123",
+      "display_phone": "(626) 578-1123",
+      "distance": 7488.039949037474,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "tdEuSSQ6P2w0e1JQqP1g7w",
+      "alias": "nakazo-ramen-bistro-alhambra",
+      "name": "Nakazo Ramen Bistro",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/n698dDScF2613vix75wtcQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nakazo-ramen-bistro-alhambra?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 282,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 34.068502,
+        "longitude": -118.1496508
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "2120 S Fremont Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Alhambra",
+        "zip_code": "91803",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2120 S Fremont Ave",
+          "Alhambra, CA 91803"
+        ]
+      },
+      "phone": "+16268726721",
+      "display_phone": "(626) 872-6721",
+      "distance": 2874.9547390174466,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://nakazoramenbistro.com/menu/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "SG4tuB-ZGSPf3yI1uAHfqQ",
+      "alias": "tomomi-sushi-alhambra",
+      "name": "Tomomi Sushi",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gMO2_P2MjEPLlLo-AA9wsg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tomomi-sushi-alhambra?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 1592,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 3.7,
+      "coordinates": {
+        "latitude": 34.095213,
+        "longitude": -118.127496
+      },
+      "transactions": [
+        "restaurant_reservation",
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "17 W Main St",
+        "address2": "",
+        "address3": "",
+        "city": "Alhambra",
+        "zip_code": "91801",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "17 W Main St",
+          "Alhambra, CA 91801"
+        ]
+      },
+      "phone": "+16264580388",
+      "display_phone": "(626) 458-0388",
+      "distance": 1952.5758749560187,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://tomomisushi.com/menu-specials/",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "O3Iq3jRw7x40OayKxApDxg",
+      "alias": "chubby-cattle-rosemead-rosemead-3",
+      "name": "Chubby Cattle - Rosemead",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Eqig3djpLhU209ezxWlEqA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/chubby-cattle-rosemead-rosemead-3?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 343,
+      "categories": [
+        {
+          "alias": "bbq",
+          "title": "Barbeque"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4.7,
+      "coordinates": {
+        "latitude": 34.08008,
+        "longitude": -118.08284
+      },
+      "transactions": [],
+      "location": {
+        "address1": "8508 E Valley Blvd",
+        "address2": "C102",
+        "address3": null,
+        "city": "Rosemead",
+        "zip_code": "91770",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "8508 E Valley Blvd",
+          "C102",
+          "Rosemead, CA 91770"
+        ]
+      },
+      "phone": "+12138187171",
+      "display_phone": "(213) 818-7171",
+      "distance": 3427.5145355987897,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "_N9hlXYLYmZ0uk2ZlV1Lvw",
+      "alias": "daikokuya-monterey-park-6",
+      "name": "Daikokuya",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/16ulhBdqLLNflCdyszwH2w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/daikokuya-monterey-park-6?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 1769,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        },
+        {
+          "alias": "soup",
+          "title": "Soup"
+        }
+      ],
+      "rating": 3.8,
+      "coordinates": {
+        "latitude": 34.062978516916736,
+        "longitude": -118.1348877750506
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "111 N Atlantic Blvd",
+        "address2": "Ste 241",
+        "address3": "",
+        "city": "Monterey Park",
+        "zip_code": "91754",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "111 N Atlantic Blvd",
+          "Ste 241",
+          "Monterey Park, CA 91754"
+        ]
+      },
+      "phone": "+16265701930",
+      "display_phone": "(626) 570-1930",
+      "distance": 2157.508837188141,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://group.bishamon-ten.com/menu_daikokuya_montreypark",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "_p2pMZ6ZDpgKiL-nCJJGJw",
+      "alias": "no-1-kazoku-san-gabriel-3",
+      "name": "No 1 Kazoku",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3Bbb7qKWPejWGjRvzy2nmg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/no-1-kazoku-san-gabriel-3?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 596,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 34.0794473534602,
+        "longitude": -118.102224110933
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "162 W Valley Blvd",
+        "address2": null,
+        "address3": "",
+        "city": "San Gabriel",
+        "zip_code": "91776",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "162 W Valley Blvd",
+          "San Gabriel, CA 91776"
+        ]
+      },
+      "phone": "+16265734888",
+      "display_phone": "(626) 573-4888",
+      "distance": 1721.2246336481562,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://no1kazoku.com/aug2022menu/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "HmbZNTSG0HTWralCGpX9Kg",
+      "alias": "osawa-shabu-shabu-and-sushi-pasadena",
+      "name": "Osawa Shabu Shabu & Sushi",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HEbOxXCUyL7C4BHJkriqtA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/osawa-shabu-shabu-and-sushi-pasadena?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 1694,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "hotpot",
+          "title": "Hot Pot"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.14724513644244,
+        "longitude": -118.14902605643655
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "77 N Raymond Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Pasadena",
+        "zip_code": "91103",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "77 N Raymond Ave",
+          "Pasadena, CA 91103"
+        ]
+      },
+      "phone": "+16266831150",
+      "display_phone": "(626) 683-1150",
+      "distance": 8068.201503570421,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.theosawa.com/menus",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "Fz0dr16smyDx_fsNX806Lg",
+      "alias": "ramen-nagi-arcadia",
+      "name": "Ramen Nagi",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Fpsld9CYfD1ZDzBgunnndw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ramen-nagi-arcadia?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 727,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 34.13486012905233,
+        "longitude": -118.0515997311205
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "400 S Baldwin Ave",
+        "address2": "Ste D2",
+        "address3": null,
+        "city": "Arcadia",
+        "zip_code": "91007",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "400 S Baldwin Ave",
+          "Ste D2",
+          "Arcadia, CA 91007"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 8939.755398302035,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://ramennagiusa.com/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "QPSAv9fZLIT4vszz0ZJeXg",
+      "alias": "pokestuf-alhambra-4",
+      "name": "Pokestuf",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pdAtOcDsRuSQqScUGR_9Bg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pokestuf-alhambra-4?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 500,
+      "categories": [
+        {
+          "alias": "hawaiian",
+          "title": "Hawaiian"
+        },
+        {
+          "alias": "poke",
+          "title": "Poke"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": 34.0931897514631,
+        "longitude": -118.131335470827
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "401 W Main St",
+        "address2": "",
+        "address3": "",
+        "city": "Alhambra",
+        "zip_code": "91801",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "401 W Main St",
+          "Alhambra, CA 91801"
+        ]
+      },
+      "phone": "+16264578810",
+      "display_phone": "(626) 457-8810",
+      "distance": 1893.237785447602,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "cr9Z4lAdk7ULtUcnA0QWiQ",
+      "alias": "kai-ramen-arcadia-arcadia-5",
+      "name": "Kai Ramen - Arcadia",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dme3C7jcRXuQw-12hT3Z3g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kai-ramen-arcadia-arcadia-5?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 570,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.126761,
+        "longitude": -118.054403
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1130 S Baldwin Ave",
+        "address2": "Ste 6",
+        "address3": null,
+        "city": "Arcadia",
+        "zip_code": "91007",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1130 S Baldwin Ave",
+          "Ste 6",
+          "Arcadia, CA 91007"
+        ]
+      },
+      "phone": "+16268857022",
+      "display_phone": "(626) 885-7022",
+      "distance": 8136.959722468148,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://kairamenarcadia.com/menu/kairamenmenu/",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "6rHNecDh9e-2x-ihpmst9A",
+      "alias": "oji-sushi-and-sake-bar-montebello-4",
+      "name": "Oji Sushi & Sake Bar",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kYl_Xj_AKBVkiMxbTcTasg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/oji-sushi-and-sake-bar-montebello-4?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 650,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.017607,
+        "longitude": -118.106497
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "800 1/2 W Beverly Blvd",
+        "address2": null,
+        "address3": null,
+        "city": "Montebello",
+        "zip_code": "90640",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "800 1/2 W Beverly Blvd",
+          "Montebello, CA 90640"
+        ]
+      },
+      "phone": "+13237286000",
+      "display_phone": "(323) 728-6000",
+      "distance": 6899.607403869347,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "66zSYg4-grtjOCmM5pMXCg",
+      "alias": "kaviar-restaurants-pasadena-pasadena-2",
+      "name": "Kaviar Restaurants - Pasadena",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3S7ebuVrSpJSfj4V4Uu4Zw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kaviar-restaurants-pasadena-pasadena-2?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 809,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.147067,
+        "longitude": -118.148588
+      },
+      "transactions": [
+        "restaurant_reservation",
+        "pickup"
+      ],
+      "location": {
+        "address1": "70 N Raymond Ave",
+        "address2": "Ste 250",
+        "address3": "",
+        "city": "Pasadena",
+        "zip_code": "91103",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "70 N Raymond Ave",
+          "Ste 250",
+          "Pasadena, CA 91103"
+        ]
+      },
+      "phone": "+16266050330",
+      "display_phone": "(626) 605-0330",
+      "distance": 8035.705085255309,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "08qsFqewvpoN__MnVt62cg",
+      "alias": "taihei-monterey-park",
+      "name": "Taihei",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Do6vYERG1vSZKOgLE_DSlw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/taihei-monterey-park?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 592,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 34.0377088,
+        "longitude": -118.1304634
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "2195 S Garfield Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Monterey Park",
+        "zip_code": "91754",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2195 S Garfield Ave",
+          "Monterey Park, CA 91754"
+        ]
+      },
+      "phone": "+13237261787",
+      "display_phone": "(323) 726-1787",
+      "distance": 4626.302226642807,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.taiheisushi.com/menu_top.html",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "t8OWDBTwta52zkXng3HSLw",
+      "alias": "o-seyo-shabu-shabu-pasadena",
+      "name": "O'seyo Shabu Shabu",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8p9DqLaRLrV6x4xKdvpJzg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/o-seyo-shabu-shabu-pasadena?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 958,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "hotpot",
+          "title": "Hot Pot"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.1462172567844,
+        "longitude": -118.090960085392
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "2879 E Colorado Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Pasadena",
+        "zip_code": "91107",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2879 E Colorado Blvd",
+          "Pasadena, CA 91107"
+        ]
+      },
+      "phone": "+16268440150",
+      "display_phone": "(626) 844-0150",
+      "distance": 8014.706648564494,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://cabbffb6-452a-4db7-a0dd-4e7b46bb2aa4.filesusr.com/ugd/4010dc_75a7e1ca090245dcb8eaa9869e5fbdee.pdf",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "VntLA3Ner2hQw0GbNDoSUQ",
+      "alias": "ichima-pasadena",
+      "name": "Ichima",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KFVKxWbfPUq-ie9oEsE3lQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ichima-pasadena?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 2268,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": 34.151123046875,
+        "longitude": -118.075141906738
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "325 N Rosemead Blvd",
+        "address2": null,
+        "address3": "",
+        "city": "Pasadena",
+        "zip_code": "91107",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "325 N Rosemead Blvd",
+          "Pasadena, CA 91107"
+        ]
+      },
+      "phone": "+16263510560",
+      "display_phone": "(626) 351-0560",
+      "distance": 9159.559041922797,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.toasttab.com/ichima",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "cetOjQ25SGauSEkLMIta0Q",
+      "alias": "jazz-cat-restaurant-san-gabriel-2",
+      "name": "Jazz Cat Restaurant",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gTedKL2Zw0m6BRXJS3dzwQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/jazz-cat-restaurant-san-gabriel-2?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 1707,
+      "categories": [
+        {
+          "alias": "taiwanese",
+          "title": "Taiwanese"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 3.7,
+      "coordinates": {
+        "latitude": 34.0799081,
+        "longitude": -118.0988154
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "121 E Valley Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "San Gabriel",
+        "zip_code": "91776",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "121 E Valley Blvd",
+          "San Gabriel, CA 91776"
+        ]
+      },
+      "phone": "+16267034583",
+      "display_phone": "(626) 703-4583",
+      "distance": 2032.5582152716836,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "yHIcPkpaUzkkd1cu231jQQ",
+      "alias": "sugarfish-pasadena-pasadena-2",
+      "name": "SUGARFISH | Pasadena",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1g46Z5CTVk26xYlI7aRGnQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sugarfish-pasadena-pasadena-2?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 1616,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 34.1430815,
+        "longitude": -118.1320864
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "146 S Lake Ave",
+        "address2": "Ste 108",
+        "address3": "",
+        "city": "Pasadena",
+        "zip_code": "91101",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "146 S Lake Ave",
+          "Ste 108",
+          "Pasadena, CA 91101"
+        ]
+      },
+      "phone": "+16262988386",
+      "display_phone": "(626) 298-8386",
+      "distance": 7250.065248249474,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://sugarfishsushi.com/food-menus/la-singlepg-menu/?utm_source=Yelp&utm_medium=listing&utm_campaign=Yelp",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "7UbcGb4Z05Zuzba6IkFqAQ",
+      "alias": "dancing-spoons-san-gabriel",
+      "name": "Dancing Spoons",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lWwod5hWhkDkmrdylkx-_Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/dancing-spoons-san-gabriel?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 126,
+      "categories": [
+        {
+          "alias": "thai",
+          "title": "Thai"
+        },
+        {
+          "alias": "tea",
+          "title": "Tea Rooms"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 34.09688110448196,
+        "longitude": -118.10827676206826
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "413 S Mission Dr",
+        "address2": "",
+        "address3": null,
+        "city": "San Gabriel",
+        "zip_code": "91776",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "413 S Mission Dr",
+          "San Gabriel, CA 91776"
+        ]
+      },
+      "phone": "+16265371240",
+      "display_phone": "(626) 537-1240",
+      "distance": 2347.5560018196247,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://dancingspoonscafe.com/menu/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "pQ_0iaWij4_Dk3qIVyxQ1Q",
+      "alias": "kontentsu-south-pasadena-south-pasadena",
+      "name": "Kontentsu - South Pasadena",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wSi8T10ceZ7mboHSgNOwwQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kontentsu-south-pasadena-south-pasadena?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 864,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 34.118139,
+        "longitude": -118.149905
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "700 Fair Oaks Ave",
+        "address2": "Ste G",
+        "address3": "",
+        "city": "South Pasadena",
+        "zip_code": "91030",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "700 Fair Oaks Ave",
+          "Ste G",
+          "South Pasadena, CA 91030"
+        ]
+      },
+      "phone": "+16267992878",
+      "display_phone": "(626) 799-2878",
+      "distance": 5151.5576166433675,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.kontentsula.com/menus",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "iYkaSNSBki8V2jKmVMYj1w",
+      "alias": "moxie-lounge-and-karaoke-arcadia-4",
+      "name": "Moxie Lounge & Karaoke",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8Z9wFAiEyRpqGoRWQUfcvQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/moxie-lounge-and-karaoke-arcadia-4?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 228,
+      "categories": [
+        {
+          "alias": "karaoke",
+          "title": "Karaoke"
+        },
+        {
+          "alias": "izakaya",
+          "title": "Izakaya"
+        },
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.1253401549978,
+        "longitude": -118.056165128946
+      },
+      "transactions": [
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1205 S Baldwin Ave",
+        "address2": "Unit A",
+        "address3": null,
+        "city": "Arcadia",
+        "zip_code": "91007",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1205 S Baldwin Ave",
+          "Unit A",
+          "Arcadia, CA 91007"
+        ]
+      },
+      "phone": "+16265258889",
+      "display_phone": "(626) 525-8889",
+      "distance": 7911.841821762347,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://moxiekaraoke.com/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "hxeQWVYJn8ArNGzx1e491A",
+      "alias": "daiki-sushi-restaurant-monterey-park-2",
+      "name": "Daiki Sushi Restaurant",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yL2qrWyfcixNTZI4_VW6wA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/daiki-sushi-restaurant-monterey-park-2?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 688,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.05305128415518,
+        "longitude": -118.13629861861904
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "728 S Atlantic Blvd",
+        "address2": "Ste 104",
+        "address3": "",
+        "city": "Monterey Park",
+        "zip_code": "91754",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "728 S Atlantic Blvd",
+          "Ste 104",
+          "Monterey Park, CA 91754"
+        ]
+      },
+      "phone": "+16266177773",
+      "display_phone": "(626) 617-7773",
+      "distance": 3169.133843005329,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "W85i7rAy5CrrZw-uIzTsEQ",
+      "alias": "tokyo-chick-pasadena",
+      "name": "Tokyo Chick",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2Vp50X5BL_cL3QQEcuou8A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tokyo-chick-pasadena?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 354,
+      "categories": [
+        {
+          "alias": "chicken_wings",
+          "title": "Chicken Wings"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 34.14597913710747,
+        "longitude": -118.14554476931151
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "231 E Colorado Blvd",
+        "address2": null,
+        "address3": "",
+        "city": "Pasadena",
+        "zip_code": "91101",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "231 E Colorado Blvd",
+          "Pasadena, CA 91101"
+        ]
+      },
+      "phone": "+16264608005",
+      "display_phone": "(626) 460-8005",
+      "distance": 7836.220325424477,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "aZlO1Q-JPc7WDZckS7Ck3g",
+      "alias": "menya-hanabi-the-original-nagoya-mazesoba-arcadia-5",
+      "name": "Menya Hanabi - The Original Nagoya Mazesoba",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SgbTwUGhvuqy34Ft_Ezs7Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/menya-hanabi-the-original-nagoya-mazesoba-arcadia-5?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 1192,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.124942606387,
+        "longitude": -118.056387132162
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "733 W Naomi Ave",
+        "address2": "Ste K",
+        "address3": "",
+        "city": "Arcadia",
+        "zip_code": "91007",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "733 W Naomi Ave",
+          "Ste K",
+          "Arcadia, CA 91007"
+        ]
+      },
+      "phone": "+16266236190",
+      "display_phone": "(626) 623-6190",
+      "distance": 7867.401116310399,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://menyahanabiusa.com/order",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "CpAgDCkj0PASeu7vmSigTw",
+      "alias": "hironori-craft-ramen-pasadena-pasadena",
+      "name": "HiroNori Craft Ramen - Pasadena",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HLB9YUSbMGD3RqrtZB4RGA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/hironori-craft-ramen-pasadena-pasadena?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 891,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "vegan",
+          "title": "Vegan"
+        },
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 34.14289,
+        "longitude": -118.1328
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "163 S Lake Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Pasadena",
+        "zip_code": "91101",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "163 S Lake Ave",
+          "Pasadena, CA 91101"
+        ]
+      },
+      "phone": "+16264608594",
+      "display_phone": "(626) 460-8594",
+      "distance": 7256.178226753774,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://static1.squarespace.com/static/5d228d7979e63900016be355/t/63d43f387a64c039fd092787/1674854201068/HiroNori_Pasadena_Menu_01262023.pdf",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "qYlN9ZDQu5K8FnOASJODzg",
+      "alias": "gozen-shun-pasadena",
+      "name": "Gozen Shun",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XJ-tVJ6E-18kqJKcw1osyQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/gozen-shun-pasadena?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 289,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.142729,
+        "longitude": -118.132776
+      },
+      "transactions": [
+        "restaurant_reservation"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "851 Cordova St",
+        "address2": "",
+        "address3": null,
+        "city": "Pasadena",
+        "zip_code": "91101",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "851 Cordova St",
+          "Pasadena, CA 91101"
+        ]
+      },
+      "phone": "+16267390220",
+      "display_phone": "(626) 739-0220",
+      "distance": 7217.686766071125,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.gozenshun.com/menu",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "_InEJeod_OkWacZjs3s5rg",
+      "alias": "bachans-take-out-monterey-park-5",
+      "name": "Bachan's Take Out",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EU6-qKOudB78w_9uTbvHnw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bachans-take-out-monterey-park-5?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 763,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.036383338431314,
+        "longitude": -118.1300297751383
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "2300 South Garfield Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Monterey Park",
+        "zip_code": "91754",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2300 South Garfield Ave",
+          "Monterey Park, CA 91754"
+        ]
+      },
+      "phone": "+16265727010",
+      "display_phone": "(626) 572-7010",
+      "distance": 4761.658600142911,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://bachans-takeout.com/menus/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "yfnvxhWFtkQ0nQBNTG7s0A",
+      "alias": "yui-restaurant-sierra-madre",
+      "name": "Yui Restaurant",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Vrafh1zzhKScL5dNA8GT6w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/yui-restaurant-sierra-madre?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 292,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "bars",
+          "title": "Bars"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.1616,
+        "longitude": -118.05329
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "24 W Sierra Madre Blvd",
+        "address2": "Unit A",
+        "address3": null,
+        "city": "Sierra Madre",
+        "zip_code": "91024",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "24 W Sierra Madre Blvd",
+          "Unit A",
+          "Sierra Madre, CA 91024"
+        ]
+      },
+      "phone": "+16263253840",
+      "display_phone": "(626) 325-3840",
+      "distance": 11146.76027393922,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.yuirestaurant.com/menu.html#drink",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "h6O4KSf5DcVsQVAbuV62wg",
+      "alias": "hayatobi-sushi-san-gabriel",
+      "name": "Hayatobi Sushi",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uxOHHs_4MG_rUqdga4lBFw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/hayatobi-sushi-san-gabriel?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 212,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.11610323926832,
+        "longitude": -118.0731203272866
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "6420 Rosemead Blvd",
+        "address2": "",
+        "address3": null,
+        "city": "San Gabriel",
+        "zip_code": "91775",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "6420 Rosemead Blvd",
+          "San Gabriel, CA 91775"
+        ]
+      },
+      "phone": "+16267034344",
+      "display_phone": "(626) 703-4344",
+      "distance": 6065.887376667182,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://hayatobirestaurant.com/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "IBy6z8mLglK73fB7RyDdjA",
+      "alias": "tatsu-ramen-pasadena-5",
+      "name": "Tatsu Ramen",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sWiCziOCpiJplWZOCNZplg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tatsu-ramen-pasadena-5?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 829,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "gluten_free",
+          "title": "Gluten-Free"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 34.13994,
+        "longitude": -118.14781
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "319 S Arroyo Pkwy",
+        "address2": "Ste 9",
+        "address3": "",
+        "city": "Pasadena",
+        "zip_code": "91105",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "319 S Arroyo Pkwy",
+          "Ste 9",
+          "Pasadena, CA 91105"
+        ]
+      },
+      "phone": "+16263455688",
+      "display_phone": "(626) 345-5688",
+      "distance": 7283.345894061915,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://tatsuramen.com/our-food/",
+        "open24_hours": null,
+        "waitlist_reservation": false
+      }
+    },
+    {
+      "id": "9Kes1WzPAYf1owYA1RTNIg",
+      "alias": "kaiba-japanese-ramen-sushi-and-grill-pasadena-pasadena",
+      "name": "Kaiba Japanese Ramen, Sushi & Grill - Pasadena ",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ga01EHwRO8sn9PPNOnR6gQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kaiba-japanese-ramen-sushi-and-grill-pasadena-pasadena?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 1473,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 4.7,
+      "coordinates": {
+        "latitude": 34.14643,
+        "longitude": -118.11511
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1713 E Colorado Blvd",
+        "address2": "",
+        "address3": null,
+        "city": "Pasadena",
+        "zip_code": "91106",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1713 E Colorado Blvd",
+          "Pasadena, CA 91106"
+        ]
+      },
+      "phone": "+16266833309",
+      "display_phone": "(626) 683-3309",
+      "distance": 7542.497700344589,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "HZr-8NEFfDa0vGHXf0eD_A",
+      "alias": "sushi-enya-pasadena-pasadena-2",
+      "name": "Sushi Enya - Pasadena",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FxK_EFuUzwTI2bcxWKKx2w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sushi-enya-pasadena-pasadena-2?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 847,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 34.1455154418945,
+        "longitude": -118.147857666016
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "124 E Colorado Blvd",
+        "address2": "",
+        "address3": null,
+        "city": "Pasadena",
+        "zip_code": "91105",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "124 E Colorado Blvd",
+          "Pasadena, CA 91105"
+        ]
+      },
+      "phone": "+16263653512",
+      "display_phone": "(626) 365-3512",
+      "distance": 7851.622449479815,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.sushienya.com/menus",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "H2ELT6hgGyvYNoq2Dgwzcw",
+      "alias": "zhenwei-kitchen-alhambra",
+      "name": "Zhenwei Kitchen",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qFByiv8WJmu9Re91ACenBg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/zhenwei-kitchen-alhambra?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 21,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "chinese",
+          "title": "Chinese"
+        }
+      ],
+      "rating": 4.9,
+      "coordinates": {
+        "latitude": 34.07815363656933,
+        "longitude": -118.1372845625722
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1227 W Valley Blvd",
+        "address2": "Ste 105",
+        "address3": null,
+        "city": "Alhambra",
+        "zip_code": "91803",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1227 W Valley Blvd",
+          "Ste 105",
+          "Alhambra, CA 91803"
+        ]
+      },
+      "phone": "+16264588338",
+      "display_phone": "(626) 458-8338",
+      "distance": 1511.4201329694026,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "tNZ1CBk3AGkQpTR1PyhjKA",
+      "alias": "izakaya-tonchinkan-arcadia-2",
+      "name": "Izakaya Tonchinkan",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/r2fIvVaFgewmPOpj_ztL8w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/izakaya-tonchinkan-arcadia-2?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q",
+      "review_count": 284,
+      "categories": [
+        {
+          "alias": "izakaya",
+          "title": "Izakaya"
+        },
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.126439521263734,
+        "longitude": -118.05553968946126
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "713 W Duarte Rd",
+        "address2": "Ste H",
+        "address3": null,
+        "city": "Arcadia",
+        "zip_code": "91007",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "713 W Duarte Rd",
+          "Ste H",
+          "Arcadia, CA 91007"
+        ]
+      },
+      "phone": "+16264615078",
+      "display_phone": "(626) 461-5078",
+      "distance": 8035.787043829995,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://izakaya.la/order",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    }
+  ],
+  "total": 194,
+  "region": {
+    "center": {
+      "longitude": -118.12088012695312,
+      "latitude": 34.07852975933363
+    }
+  }
+}
+
