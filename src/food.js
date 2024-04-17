@@ -6,18 +6,26 @@
 			search();
 		});
 
-		$("#picture").on("swipeleft", function() {
-			restaurantIndex--;
-			showRestaurant(getRestaurantDetails(restaurantIndex));
-		});
+		// Detect if the device is mobile
+		var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 
-		$("#picture").on("click", function() {
-			showRestaurant(getRestaurantDetails(restaurantIndex));
-		});
+		// If the device is mobile, use the swipe event listener
+		if (isMobile) {
+			$("#picture").on("swipeleft", function() {
+				if (restaurantIndex >= 2) {
+					restaurantIndex -= 2;
+				}
+				showRestaurant(getRestaurantDetails(restaurantIndex));
+			});
 
-		$("#picture").on("swiperight", function() {
-			showRestaurant(getRestaurantDetails(restaurantIndex));
-		});
+			$("#picture").on("swiperight", function() {
+				showRestaurant(getRestaurantDetails(restaurantIndex));
+			});
+		} else {
+			$("#picture").on("click", function() {
+				showRestaurant(getRestaurantDetails(restaurantIndex));
+			});
+		}
 	};
 
 	function search() {
