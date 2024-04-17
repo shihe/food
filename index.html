@@ -13,24 +13,29 @@
 		<div class="container">
 			<h1>Welcome!</h1>
 		</div>
-		<div class="input">
-		 	What: <input type="text" id="term">
+		<div id="forms">
+			<div class="input">
+				What: <input type="text" id="term">
+			</div>
+			<div class="input">
+				Where: <input type="text" id="location">
+			</div>
+			<div class="input">
+				When: <input type="text" id="open_at">
+			</div>
+			<button id="search">Search</button>
 		</div>
-		<div class="input">
-		 	Where: <input type="text" id="location">
-		</div>
-		<div class="input">
-		 	When: <input type="text" id="open_at">
-	 	</div>
-	 	<button id="search">Search</button>
 		<div id="restaurant">
 			<div id="picture"></div>
 			<div id="details">
-				<a id="title" href="https://www.yelp.com/biz/kopan-sushi-and-ramen-alhambra-alhambra?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q">Ipoh Kopitiam</a>
-				<div id="rating">95/4.3/1600</div>
-				<div id="categories">Ramen</div>
-				<div id="price">$$</div>
+				<h3>
+					<a id="title" class="details" href="https://www.yelp.com/biz/kopan-sushi-and-ramen-alhambra-alhambra?adjust_creative=EZL6YKNLTI_YtVpn6OH33Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EZL6YKNLTI_YtVpn6OH33Q">Ipoh Kopitiam</a>
+				</h3>
+				<div id="rating" class="details">95/4.3/1600</div>
+				<div id="categories" class="details">Ramen</div>
+				<div id="price" class="details">$$</div>
 			</div>
 		</div>
+		<div id="loading" class="loader"></div>
 	</body>
 </html>
