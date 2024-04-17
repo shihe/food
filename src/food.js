@@ -14,8 +14,8 @@
 			$("#picture").on("swipeleft", function() {
 				if (restaurantIndex >= 2) {
 					restaurantIndex -= 2;
+					showRestaurant(getRestaurantDetails(restaurantIndex));
 				}
-				showRestaurant(getRestaurantDetails(restaurantIndex));
 			});
 
 			$("#picture").on("swiperight", function() {
@@ -26,6 +26,15 @@
 				showRestaurant(getRestaurantDetails(restaurantIndex));
 			});
 		}
+
+	  	var slider = tns({
+			"container": ".slider",
+			"items": 3,
+			"slideBy": "page",
+			"mouseDrag": true,
+			"swipeAngle": false,
+			"speed": 400
+		});
 	};
 
 	function search() {
@@ -35,6 +44,7 @@
 			.then((response) => response.json())
 			.then((json) => sessionStorage.setItem("searchResponse", JSON.stringify(json)));
 		$("#loading").hide();
+
 		restaurantIndex = 0;
 		showRestaurant(getRestaurantDetails(restaurantIndex));
 	}
