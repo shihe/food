@@ -2,3 +2,16 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	text-align: center;
 }
+
+#restaurant {
+	max-width: fit-content;
+	margin-inline: auto;
+	align-content: center;
+	border: 2px solid purple;
+	display: none;
+}
+
+#restaurant img {
+	width: 400px;
+	height: 400px;
+}
