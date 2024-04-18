@@ -1,6 +1,9 @@
 (function($, window) {
     window.onload = () => {
         console.log("Hello");
+        if (localStorage.getItem("api_key")) {
+            $('#api_key').val(localStorage.getItem("api_key"));
+        }
         $("#search").on("click", function() {
             search();
         });
@@ -8,9 +11,43 @@
 
     function search() {
         $("#loading").show();
-        fetch('https://shihe.github.io/food/src/json/searchMock.json').then((response) => response.json()).then((json) => sessionStorage.setItem("searchResponse", JSON.stringify(json)));
-        $("#loading").hide();
-        showRestaurant(getRestaurants());
+        let apiKey;
+        if ($('#api_key').val()) {
+            localStorage.setItem("api_key", $('#api_key').val());
+            apiKey = $('#api_key').val()
+        } else if (localStorage.getItem("api_key")) {
+            apiKey = localStorage.getItem("api_key");
+        }
+        const settings = {
+            async: true,
+            crossDomain: true,
+            url: constructSearchUrl(),
+            method: 'GET',
+            headers: {
+                accept: 'application/json',
+                "Access-Control-Allow-Origin": "*",
+                Authorization: 'Bearer ' + apiKey
+            }
+        };
+        $.ajax(settings).done(function(response) {
+            sessionStorage.setItem("searchResponse", JSON.stringify(response));
+            $("#loading").hide();
+            showRestaurant(getRestaurants());
+        });
+    }
+
+    function constructSearchUrl() {
+        const termParam = $('#term').val() ? $('#term').val() : "restaurants";
+        const locationParam = $('#location').val() ? $('#location').val() : "Irvine, CA";
+        const openTimeParam = $('#open_at').val() ? Math.trunc(Date.now() / 1000 + 60 * $('#open_at').val()) : Math.trunc(Date.now() / 1000);
+        const params = {
+            term: termParam,
+            location: locationParam,
+            open_at: openTimeParam,
+            sort_by: "best_match",
+            limit: 50
+        }
+        return "https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?" + $.param(params);
     }
 
     function getRestaurants() {
@@ -18,9 +55,9 @@
     }
 
     function showRestaurant(restaurants) {
+        $('#restaurant > div').empty();
         for (let i = 0; i < restaurants.length; i++) {
             let restaurantDetails = restaurants[i];
-            console.log(restaurantDetails, i);
             const carouselItem = constructCarouselItem(restaurantDetails);
             $('#restaurant > div').append(carouselItem);
         }
@@ -45,15 +82,21 @@
             'class': 'details'
         }).attr('href', restaurantDetails.url).text(restaurantDetails.name);
         titleHeading.append(title);
+        const itemRatings = $('<div>', {
+            'class': 'details'
+        });
         const itemDetails = $('<div>', {
             'class': 'details'
         });
         const weightedRating = getWeightedRating(restaurantDetails.rating, restaurantDetails.review_count);
         const ratingStr = "Score: " + weightedRating + " / Rating: " + restaurantDetails.rating + " / Reviews: " + restaurantDetails.review_count;
+        itemRatings.append(ratingStr);
         const categoryStr = restaurantDetails.categories.map((category) => category.title).join(", ");
-        const itemDetailsStr = ratingStr + "                  " + categoryStr + "                  " + restaurantDetails.price;
+        const priceStr = restaurantDetails.price ? restaurantDetails.price : "";
+        const itemDetailsStr = categoryStr + "    " + priceStr;
         itemDetails.text(itemDetailsStr);
         itemCaption.append(titleHeading);
+        itemCaption.append(itemRatings);
         itemCaption.append(itemDetails);
         item.append(itemCaption);
         const borderColor = "5px solid " + getBorderColor(weightedRating);
