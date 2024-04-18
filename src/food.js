@@ -47,7 +47,7 @@
             sort_by: "best_match",
             limit: 50
         }
-        return "https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?" + $.param(params);
+        return "https://corsproxy.io/?https://api.yelp.com/v3/businesses/search?" + $.param(params);
     }
 
     function getRestaurants() {
