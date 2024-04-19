@@ -18,6 +18,9 @@
         $("#search").on("click", function() {
             search();
         });
+        $("#random").on("click", function() {
+            $('#restaurant').carousel(Math.floor(Math.random() * 20));
+        });
     };
 
     function search() {
@@ -42,7 +45,7 @@
         };
         $.ajax(settings).done(function(response) {
             sessionStorage.setItem("searchResponse", JSON.stringify(response));
-            showRestaurant(getRestaurants());
+            displayCarousels(getRestaurants());
         }).fail(function(jqXHR, textStatus, errorThrown) {
             console.log(errorThrown);
             $("#error").show();
@@ -69,17 +72,34 @@
         return JSON.parse(sessionStorage.getItem("searchResponse")).businesses;
     }
 
-    function showRestaurant(restaurants) {
-        $('#restaurant > div').empty();
-        for (let i = 0; i < restaurants.length; i++) {
-            let restaurantDetails = restaurants[i];
-            const carouselItem = constructCarouselItem(restaurantDetails);
-            $('#restaurant > div').append(carouselItem);
-        }
-        $('#restaurant > div').find('.carousel-item').first().addClass('active');
-        $("#restaurant").carousel();
-        $("#restaurant").show();
+    function displayCarousels(restaurants) {
+        console.log(restaurants);
+        displayCarousel(restaurants, '#restaurant');
+        // High Score Carousel
+        const highScoreRestaurants = restaurants.sort(function(left, right) {
+            return getWeightedRating(right.rating, right.review_count) - getWeightedRating(left.rating, left.review_count);
+        }).slice(0, 10);
+        displayCarousel(highScoreRestaurants, '#high-score-restaurant');
+        // Nearest Carousel
+        const nearestRestaurants = restaurants.sort(function(left, right) {
+            return left.distance - right.distance;
+        }).slice(0, 10);
+        displayCarousel(nearestRestaurants, '#nearest-restaurant');
     };
+
+    function displayCarousel(restaurants, carouselId) {
+        const innerCarouselDiv = carouselId + ' > div';
+        $(innerCarouselDiv).empty();
+        restaurants.forEach((restaurantDetails) => {
+            const carouselItem = constructCarouselItem(restaurantDetails);
+            $(innerCarouselDiv).append(carouselItem);
+        });
+        $(innerCarouselDiv).find('.carousel-item').first().addClass('active');
+        $(carouselId).carousel({
+            interval: 1000
+        });
+        $(carouselId).show();
+    }
 
     function constructCarouselItem(restaurantDetails) {
         const item = $('<div>', {
@@ -114,7 +134,7 @@
         itemCaption.append(itemRatings);
         itemCaption.append(itemDetails);
         item.append(itemCaption);
-        const borderColor = "5px solid " + getBorderColor(weightedRating);
+        const borderColor = "2px solid " + getBorderColor(weightedRating);
         item.css({
             "border": borderColor
         });
