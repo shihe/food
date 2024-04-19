@@ -26,12 +26,19 @@ a.details {
     font-weight: bold;
     color: white;
 }
+/* Hidden Elements */
+
 #restaurant {
     display: none;
 }
 #loading {
     display: none;
 }
+.error {
+    display: none;
+}
+/* Spinner CSS */
+
 .loader {
     position: absolute;
     left: 50%;
@@ -54,6 +61,8 @@ a.details {
         transform: rotate(360deg);
     }
 }
+/* Carousel CSS */
+
 .carousel img {
     object-fit: cover;
     width: 250px;

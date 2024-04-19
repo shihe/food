@@ -1,9 +1,20 @@
 (function($, window) {
     window.onload = () => {
-        console.log("Hello");
         if (localStorage.getItem("api_key")) {
             $('#api_key').val(localStorage.getItem("api_key"));
         }
+        $("#term").on("focus", function() {
+            $("#term").attr("placeholder", "Search for Pizza, Asian, Brunch")
+        });
+        $("#term").on("focusout", function() {
+            $("#term").attr("placeholder", "Restaurants")
+        });
+        $("#location").on("focus", function() {
+            $("#location").attr("placeholder", "Neighborhood, city, state or zip code")
+        });
+        $("#location").on("focusout", function() {
+            $("#location").attr("placeholder", "Irvine, CA")
+        });
         $("#search").on("click", function() {
             search();
         });
@@ -31,15 +42,19 @@
         };
         $.ajax(settings).done(function(response) {
             sessionStorage.setItem("searchResponse", JSON.stringify(response));
-            $("#loading").hide();
             showRestaurant(getRestaurants());
+        }).fail(function(jqXHR, textStatus, errorThrown) {
+            console.log(errorThrown);
+            $("#error").show();
+        }).always(function() {
+            $("#loading").hide();
         });
     }
 
     function constructSearchUrl() {
         const termParam = $('#term').val() ? $('#term').val() : "restaurants";
         const locationParam = $('#location').val() ? $('#location').val() : "Irvine, CA";
-        const openTimeParam = $('#open_at').val() ? Math.trunc(Date.now() / 1000 + 60 * $('#open_at').val()) : Math.trunc(Date.now() / 1000);
+        const openTimeParam = $('#open_at').val() ? Math.trunc(Date.now() / 1000 + 60 * $('#open_at').val()) : Math.trunc(Date.now() / 1000 + 1800);
         const params = {
             term: termParam,
             location: locationParam,
@@ -89,11 +104,11 @@
             'class': 'details'
         });
         const weightedRating = getWeightedRating(restaurantDetails.rating, restaurantDetails.review_count);
-        const ratingStr = "Score: " + weightedRating + " / Rating: " + restaurantDetails.rating + " / Reviews: " + restaurantDetails.review_count;
+        const ratingStr = "Score: " + weightedRating + " | " + restaurantDetails.rating + " (" + restaurantDetails.review_count + " reviews)";
         itemRatings.append(ratingStr);
         const categoryStr = restaurantDetails.categories.map((category) => category.title).join(", ");
         const priceStr = restaurantDetails.price ? restaurantDetails.price : "";
-        const itemDetailsStr = categoryStr + "    " + priceStr;
+        const itemDetailsStr = categoryStr + " " + priceStr;
         itemDetails.text(itemDetailsStr);
         itemCaption.append(titleHeading);
         itemCaption.append(itemRatings);
