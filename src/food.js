@@ -18,6 +18,9 @@
         $("#search").on("click", function() {
             search();
         });
+        $("#locationBtn").on("click", function() {
+            getLocation();
+        });
         $("#random").on("click", function() {
             $('#restaurant').carousel(Math.floor(Math.random() * 20));
         });
@@ -66,6 +69,20 @@
             limit: 50
         }
         return "https://corsproxy.io/?https://api.yelp.com/v3/businesses/search?" + $.param(params);
+    }
+
+    function getLocation() {
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition((position) => {
+                $("#location").val(position.coords.latitude + ", " + position.coords.longitude);
+            }, () => {}, {
+                timeout: 6000,
+                maximumAge: 1000,
+                enableHighAccuracy: true
+            });
+        } else {
+            alert("Geolocation is not supported by this browser.");
+        }
     }
 
     function getRestaurants() {
