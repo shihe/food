@@ -28,25 +28,7 @@
 
     function search() {
         $("#loading").show();
-        let apiKey;
-        if ($('#api_key').val()) {
-            localStorage.setItem("api_key", $('#api_key').val());
-            apiKey = $('#api_key').val()
-        } else if (localStorage.getItem("api_key")) {
-            apiKey = localStorage.getItem("api_key");
-        }
-        const settings = {
-            async: true,
-            crossDomain: true,
-            url: constructSearchUrl(),
-            method: 'GET',
-            headers: {
-                accept: 'application/json',
-                "Access-Control-Allow-Origin": "*",
-                Authorization: 'Bearer ' + apiKey
-            }
-        };
-        $.ajax(settings).done(function(response) {
+        $.ajax(getSettings(true)).done(function(response) {
             sessionStorage.setItem("searchResponse", JSON.stringify(response));
             displayCarousels(getRestaurants());
         }).fail(function(jqXHR, textStatus, errorThrown) {
@@ -55,6 +37,38 @@
         }).always(function() {
             $("#loading").hide();
         });
+    }
+
+    function getSettings(isMock) {
+        let apiKey;
+        if ($('#api_key').val()) {
+            localStorage.setItem("api_key", $('#api_key').val());
+            apiKey = $('#api_key').val()
+        } else if (localStorage.getItem("api_key")) {
+            apiKey = localStorage.getItem("api_key");
+        }
+        if (isMock) {
+            return {
+                async: true,
+                url: "https://shihe.github.io/food/src/json/searchMock.json",
+                method: 'GET',
+                headers: {
+                    accept: 'application/json',
+                }
+            };
+        } else {
+            return {
+                async: true,
+                crossDomain: true,
+                url: constructSearchUrl(),
+                method: 'GET',
+                headers: {
+                    accept: 'application/json',
+                    "Access-Control-Allow-Origin": "*",
+                    Authorization: 'Bearer ' + apiKey
+                }
+            };
+        }
     }
 
     function constructSearchUrl() {
@@ -90,7 +104,6 @@
     }
 
     function displayCarousels(restaurants) {
-        console.log(restaurants);
         displayCarousel(restaurants, '#restaurant');
         // High Score Carousel
         const highScoreRestaurants = restaurants.sort(function(left, right) {
